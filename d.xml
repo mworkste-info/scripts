@@ -1,6 +1,0 @@
-<manifest>
-  <remote name="github" fetch="https://github.com/" revision="main"/>
-  <default remote="github" revision="main" sync-j="7"/>
-  <project name="mworkste-project-agv/magv" path="magv" revision="main"/>
-  <project name="mworkste-project-agv/magv4" path="magv4" revision="main"/>
-</manifest>
